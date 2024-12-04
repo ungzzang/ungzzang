@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **언어**</br>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
-데이터베이스</br>
+##데이터베이스</br>
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
 
 프레임워크</br>
