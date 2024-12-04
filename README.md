@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3 align="center">개발 환경</h3>
+<div align="center">
+  ![snake gif](https://github.com/ungzzang/ungzzang/blob/output/github-contribution-grid-snake.svg)
+<div>
 ![snake gif](https://github.com/ungzzang/ungzzang/blob/output/github-contribution-grid-snake.svg)
 <h3>언어</h3>
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) </br>
