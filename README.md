@@ -1,4 +1,4 @@
-## Hi, ungzzang's github 👋
+## Hi, I am UNGZZANG 👋
 
 <!--
 **ungzzang/ungzzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
