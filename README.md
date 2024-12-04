@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  
 ![snake gif](https://github.com/ungzzang/ungzzang/blob/output/github-contribution-grid-snake.svg)
 
-언어
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;</br>
+언어</b>
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
 
 <h3>데이터베이스</h3>
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
