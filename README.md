@@ -3,7 +3,9 @@
 ## Hi, I am UNGZZANG 👋
 
 <a href="https://www.instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+![js](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![js](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![js](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)
 
 <!--
 **ungzzang/ungzzang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
